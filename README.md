@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-I'm an undergraduate IT Student. I have learning to code for 2 years now.
+I'm an undergraduate IT Student. I have been learning to code for 2 years now.
 
 * 🌍  I'm based in Kegalle, Sri Lanka.
 * 🚀  I'm currently working on [MERN Web App For Food Ordering](http://github.com/PasiduRanasinghe/SnacksMart)

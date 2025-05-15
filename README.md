@@ -21,10 +21,10 @@ I'm an undergraduate IT student with a passion for coding and building web appli
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 **DevOps/CI-CD:**  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
 
 **Tools & Others:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
 
 ### 📫 Let's Connect
 

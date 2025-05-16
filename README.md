@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Pasidu Ranasinghe
+### Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Pasidu Ranasinghe
 
 #### Full Stack Software Engineer
 
@@ -31,8 +31,8 @@ I'm an undergraduate IT student with a passion for coding and building web appli
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/pasidu-ranasinghe)
-- [GitHub](https://github.com/PasiduRanasinghe)
-- [Facebook](https://www.facebook.com/pasiduranasinghe0)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasidu-ranasinghe)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/PasiduRanasinghe)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/pasiduranasinghe0)
 
 Feel free to reach out if you'd like to collaborate or just chat about tech! 😊

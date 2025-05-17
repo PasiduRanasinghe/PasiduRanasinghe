@@ -6,8 +6,8 @@ I'm an undergraduate IT student with a passion for coding and building web appli
 
 - 🌍 Based in Kegalle, Sri Lanka
 - 🚀 Currently working on [SnacksMart - A MERN Web App for Food Ordering](https://github.com/PasiduRanasinghe/SnacksMart)
-- 🧠 Learning MERN Stack (MongoDB, Express.js, React, Node.js)
-- 🤝 Open to collaborating on projects involving Angular, React, Spring Boot, Express.js, and Node.js
+- 🧠 Learning Devops, Laravel
+- 🤝 Open to collaborating on projects involving Angular, React, Spring Boot, Express.js, Laravel and Node.js
 
 ### 🔧 Skills & Technologies
 

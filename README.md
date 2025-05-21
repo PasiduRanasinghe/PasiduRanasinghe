@@ -5,7 +5,7 @@
 I'm an undergraduate IT student with a passion for coding and building web applications. Over the past 2 years, I've been diving deep into various technologies to become a proficient Full Stack Developer.
 
 - 🌍 Based in Kegalle, Sri Lanka
-- 🚀 Currently working on [SnacksMart - A MERN Web App for Food Ordering](https://github.com/PasiduRanasinghe/SnacksMart)
+- 🚀 Currently working on [ComplainDesk - AI-Powered Smart Complaint Routing and Insight Platform for Municipal Services](https://github.com/PasiduRanasinghe/ComplainDesk)
 - 🧠 Learning Devops, Laravel and Android Development
 - 🤝 Open to collaborating on projects involving Angular, React, Spring Boot, Express.js, Laravel and Node.js
 
